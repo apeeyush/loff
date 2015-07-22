@@ -1,0 +1,43 @@
+<rss version="2.0">
+  <channel>
+  <title>A handpicked list of high scalability all time favorites</title>
+  <link>http://highscalability.com/all-time-favorites/</link>
+  <description>A handpicked list of high scalability all time favorites sorted by ascending order of number of upvotes on HN</description>
+  <item>
+    <link>http://highscalability.com/blog/2014/7/14/bitly-lessons-learned-building-a-distributed-system-that-han.html</link>
+    <title>Bitly: Lessons Learned Building A Distributed System That Handles 6 Billion Clicks A Month</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2013/1/28/duckduckgo-architecture-1-million-deep-searches-a-day-and-gr.html</link>
+    <title>DuckDuckGo Architecture - 1 Million Deep Searches A Day And Growing</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html</link>
+    <title>Reddit: Lessons Learned From Mistakes Made Scaling To 1 Billion Pageviews A Month</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html</link>
+    <title>Scaling Pinterest - From 0 To 10s Of Billions Of Page Views A Month In Two Years</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html</link>
+    <title>The WhatsApp Architecture Facebook Bought For $19 Billion</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html</link>
+    <title>The Architecture Twitter Uses To Deal With 150M Active Users, 300K QPS, A 22 MB/S Firehose, And Send Tweets In Under 5 Seconds</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html</link>
+    <title>Tumblr Architecture - 15 Billion Page Views A Month And Harder To Scale Than Twitter</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html</link>
+    <title>StackOverflow Update: 560M Pageviews A Month, 25 Servers, And It's All About Performance</title>
+  </item>
+  <item>
+    <link>http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html</link>
+    <title>7 Years Of YouTube Scalability Lessons In 30 Minutes</title>
+  </item>
+  </channel>
+</rss>
