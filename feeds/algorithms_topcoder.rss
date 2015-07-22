@@ -4,76 +4,76 @@
   <link>https://www.topcoder.com/community/data-science/data-science-tutorials/</link>
   <description>Common Algorithms tutorial from topcoder</description>
   <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/</link>
-    <title>The Importance of Algorithms</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/</link>
-    <title>Recognizing and Representing a Graph</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/</link>
-    <title>Searching a Graph</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/</link>
-    <title>Finding the Best Path through a Graph</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/</link>
-    <title>https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/</link>
-    <title>Dynamic Programming: From Novice to Advanced</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/</link>
-    <title>Computational Complexity - Section 1</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/</link>
-    <title>Computational Complexity - Section 2</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/using-regular-expressions-2/</link>
-    <title>Using Regular Expressions</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/</link>
-    <title>Understanding Probabilities</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/</link>
-    <title>Data Structures</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/sorting/</link>
-    <title>Sorting</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/</link>
-    <title>Maximum Flow - Section 1</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/</link>
-    <title>Maximum Flow - Section 2</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/</link>
-    <title>Binary Search</title>
-  </item>
-  <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/a-bit-of-fun-fun-with-bits/</link>
-    <title>A bit of fun: fun with bits</title>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/</link>
+    <title>An Introduction to Recursion, Part 2</title>
   </item>
   <item>
     <link>https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/</link>
     <title>An Introduction to Recursion, Part 1</title>
   </item>
   <item>
-    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/</link>
-    <title>An Introduction to Recursion, Part 2</title>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/a-bit-of-fun-fun-with-bits/</link>
+    <title>A bit of fun: fun with bits</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/</link>
+    <title>Binary Search</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/</link>
+    <title>Maximum Flow - Section 2</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/</link>
+    <title>Maximum Flow - Section 1</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/sorting/</link>
+    <title>Sorting</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/</link>
+    <title>Data Structures</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/</link>
+    <title>Understanding Probabilities</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/using-regular-expressions-2/</link>
+    <title>Using Regular Expressions</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/</link>
+    <title>Computational Complexity - Section 2</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/</link>
+    <title>Computational Complexity - Section 1</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/</link>
+    <title>Dynamic Programming: From Novice to Advanced</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/</link>
+    <title>Greedy is good</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/</link>
+    <title>Finding the Best Path through a Graph</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/</link>
+    <title>Searching a Graph</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/</link>
+    <title>Recognizing and Representing a Graph</title>
+  </item>
+  <item>
+    <link>https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/</link>
+    <title>The Importance of Algorithms</title>
   </item>
   </channel>
 </rss>
