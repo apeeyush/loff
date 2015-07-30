@@ -4,6 +4,10 @@
   <link>http://blog.kaggle.com/author/kevin-markham/</link>
   <description>Machine Learning with scikit-learn by Kevin Markham</description>
   <item>
+    <link>http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/</link>
+    <title>scikit-learn video #8: Efficiently searching for optimal tuning parameters</title>
+  </item>
+  <item>
     <link>http://blog.kaggle.com/2015/06/29/scikit-learn-video-7-optimizing-your-model-with-cross-validation/</link>
     <title>scikit-learn video #7: Optimizing your model with cross-validation</title>
   </item>
