@@ -18,5 +18,8 @@ A handpicked list of articles and videos from [high scalabitity](http://highscal
 ### High Scalability all time favourited
 A list of most popular posts on [high scalability](http://highscalability.com/all-time-favorites/) ordered by the number of upvotes on HN.
 
+### Nerd Fitness : Eating Properly
+A [series](http://www.nerdfitness.com/resources/) of blog posts on eating properly from nerd fitness
+
 ## Contribution
 Feel free to create/add your favourite feeds and link them here.
